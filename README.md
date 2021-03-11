@@ -23,12 +23,14 @@ between average review score and sales.
 
 # solution
 
-
 1- Table connection is performed by functionalities like joining or 
 blending.
 data connection - a single source connection between Tableau and
 data source such as an Excel workbook or and SQL database.
+
 Chart 1- Number of reviews and average rating
+
 Chart 2- Number of reviews by audiobooks
+
 Chart 3- created a chart that gives information about the ratio b/w
 reviews LEFT and number of purchases in a given month
